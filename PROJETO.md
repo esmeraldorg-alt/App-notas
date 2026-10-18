@@ -54,6 +54,9 @@ notas-seguras/
         └── Ui.kt              ← telas (senha, lista, editor, trocar senha)
 ```
 
+## Repositório
+https://github.com/esmeraldorg-alt/App-notas
+
 ## Como gerar o APK
 **Opção 1 — GitHub (sem instalar nada):**
 1. Envie o projeto para o GitHub (`git push`)
@@ -71,7 +74,7 @@ notas-seguras/
 
 ## Status
 - [x] Código completo (v1.0)
-- [ ] Primeiro build no GitHub Actions / Android Studio
+- [x] Primeiro build no GitHub Actions (sucesso em 2026-10-18)
 - [ ] Testar no celular
 
 ## Ideias futuras
