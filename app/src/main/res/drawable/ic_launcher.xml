@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícone: folha de notas com cadeado -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#2E5E4E" android:pathData="M0,0h108v108h-108z" />
+    <path android:fillColor="#F4EFE6" android:pathData="M32,24h36l10,10v50a4,4 0,0 1,-4 4h-42a4,4 0,0 1,-4 -4v-56a4,4 0,0 1,4 -4z" />
+    <path android:fillColor="#C9BFAE" android:pathData="M38,40h28v3h-28zM38,48h28v3h-28zM38,56h16v3h-16z" />
+    <path android:fillColor="#E0A93B" android:pathData="M60,66h18a2,2 0,0 1,2 2v14a2,2 0,0 1,-2 2h-18a2,2 0,0 1,-2 -2v-14a2,2 0,0 1,2 -2z" />
+    <path android:strokeColor="#E0A93B" android:strokeWidth="3" android:fillColor="#00000000"
+        android:pathData="M63,66v-4a6,6 0,0 1,12 0v4" />
+</vector>
